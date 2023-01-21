@@ -49,7 +49,7 @@
 apt-get update -y
 apt-get upgrade -y
 apt-get install git -y
-git clone https://github.com/MrHacker-X/SploitX.git/
+git clone https://github.com/Pandoragiann/SploitX.git/
 cd SploitX
 chmod +x *
 bash setup.sh
@@ -58,4 +58,6 @@ bash sploitx.sh
 
 ## Single Line Installation:
 ```
-apt-get update -y && apt-get upgrade -y && apt-get install git -y && git clone https://github.com/MrHacker-X/SploitX.git/ && cd SploitX && chmod +x * && bash setup.sh && bash sploitx.sh
+apt-get update -y && apt-get upgrade -y && apt-get install git -y && git clone https://github.com/Pandoragiann/SploitX.git/ && cd SploitX && chmod +x * && bash setup.sh && bash sploitx.sh
+```
+## Author:
