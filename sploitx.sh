@@ -342,10 +342,10 @@ sleep 0.2
 printf "\033[1;91m* \e[0m\e[92mGithub \e[0m\e[91m   : \e[0m\e[94mhttps://github.com/Pandoragiann/\e[0m\n"
 printf "\e[0m\n"
 sleep 0.2
-printf "\033[1;91m* \e[0m\e[92mInstagram \e[0m\e[91m: \e[0m\e[94mhttps://instagram.com//\e[0m\n"
+printf "\033[1;91m* \e[0m\e[92mTwitter \e[0m\e[91m: \e[0m\e[94mhttps://twitter.com//Pandoragiann\e[0m\n"
 printf "\e[0m\n"
 sleep 0.2
-printf "\033[1;91m* \e[0m\e[92mTelegram \e[0m\e[91m : \e[0m\e[94mhttps://twitter/Pandoragiann/\e[0m\n"
+printf "\033[1;91m* \e[0m\e[92mTelegram \e[0m\e[91m : \e[0m\e[94mhttps://telegram//\e[0m\n"
 printf "\e[0m\n"
 sleep 0.2
 printf "\033[1;91m* \e[0m\e[92mFacebook \e[0m\e[91m : \e[0m\e[94mhttps://facebook.com//\e[0m\n"
